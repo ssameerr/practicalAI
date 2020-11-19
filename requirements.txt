@@ -25,3 +25,4 @@ tqdm==4.28.1
 ujson==1.35
 urllib3==1.22
 Werkzeug==0.14.1
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
